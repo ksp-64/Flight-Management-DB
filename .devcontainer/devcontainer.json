@@ -1,9 +1,7 @@
 {
   "name": "Python and SQLite",
   "image": "mcr.microsoft.com/devcontainers/python:3.13",
-  "features": {
-    "ghcr.io/devcontainers/features/sqlite:1": {}
-  },
+  "features": {},
   "customizations": {
     "vscode": {
       "extensions": [
