@@ -1,6 +1,6 @@
 {
   "name": "Python and SQLite",
-  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "image": "python:3.13-slim-bookworm",
   "features": {},
   "customizations": {
     "vscode": {
