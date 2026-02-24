@@ -1,0 +1,25 @@
+{
+  "name": "Python and SQLite",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "features": {
+    "ghcr.io/devcontainers/features/sqlite:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "alexcvzz.vscode-sqlite",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ],
+      "settings": {
+        "python.useEnvironmentsExtension": true,
+        "sqlite.databaseExtensions": [
+          ".db",
+          ".sqlite",
+          ".sqlite3"
+        ]
+      }
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip && if [ -f requirements.txt ]; then pip install -r requirements.txt; fi"
+}

@@ -1,0 +1,24 @@
+BookingItemID,BookingID,InstanceID,PassportNo,Nationality,SeatNo,CabinClass,ItemStatus
+1,18,7,MOIJESG68,ARE,21B,First,Confirmed
+2,20,27,PJS1AWP0L,USA,16B,Business,Cancelled
+3,16,2,SEF6Y39C2,AUS,6D,First,Cancelled
+4,5,17,9YSQJVFJW,FRA,24D,Business,Confirmed
+5,15,18,MOIJESG68,ARE,40F,Economy,Confirmed
+6,13,24,BUK3XF1GP,ESP,22E,Business,CheckedIn
+7,23,22,Z7FZTVOVK,USA,31E,First,Confirmed
+8,17,9,7XE78669B,ESP,21E,Business,Confirmed
+9,24,20,4MX23SY67,ESP,38C,First,CheckedIn
+10,16,2,SEF6Y39C2,AUS,24C,Economy,Cancelled
+11,10,2,0XP2S2O8P,FRA,39D,Business,Cancelled
+12,25,15,NJ971HSPT,USA,4E,First,Confirmed
+13,24,4,YFXOBUGVJ,IND,9E,Premium Economy,Confirmed
+14,16,34,HSFKR26J1,USA,25C,Premium Economy,Confirmed
+15,8,18,JQMLJEL53,AUS,36C,Premium Economy,Cancelled
+16,18,18,6LCP2277K,DEU,19A,First,Boarded
+17,18,18,DP03EH58B,ARE,36F,Business,Confirmed
+18,4,27,Y8O69WEZC,ESP,22F,First,Confirmed
+19,5,1,CS4I42AFB,FRA,36B,First,CheckedIn
+20,2,6,KMIQD4X9G,ARE,42E,Premium Economy,Confirmed
+21,4,22,4MX23SY67,ESP,19D,First,Boarded
+22,17,30,Z7FZTVOVK,USA,18B,Economy,Confirmed
+23,15,17,YFXOBUGVJ,IND,12A,Business,CheckedIn

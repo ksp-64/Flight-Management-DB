@@ -1,0 +1,94 @@
+CrewAssignmentID,InstanceID,StaffID,DutyRole
+1,24,42,Cabin Crew
+4,17,11,First Officer
+7,7,26,Purser
+8,24,1,Captain
+9,18,3,First Officer
+10,9,40,Purser
+11,1,40,Cabin Crew
+14,32,48,Captain
+16,6,2,Standby
+17,15,29,Cabin Crew
+19,20,10,Purser
+21,11,41,Captain
+22,11,37,First Officer
+24,30,14,First Officer
+27,5,24,First Officer
+29,26,22,Standby
+31,21,7,Purser
+32,15,31,Ops
+33,18,16,Cabin Crew
+34,34,23,Purser
+37,7,27,Cabin Crew
+38,32,33,Captain
+39,30,17,First Officer
+42,34,38,First Officer
+43,4,41,Captain
+46,11,1,First Officer
+47,6,5,First Officer
+52,5,35,First Officer
+54,20,46,Cabin Crew
+56,22,45,Cabin Crew
+57,30,31,Ops
+59,3,38,First Officer
+61,32,6,Standby
+62,7,36,Purser
+63,34,2,Ops
+64,27,15,Purser
+66,26,27,Cabin Crew
+67,21,40,Purser
+68,5,49,First Officer
+69,15,34,Purser
+70,7,50,First Officer
+71,2,3,First Officer
+73,34,49,Captain
+74,11,44,First Officer
+76,15,23,Cabin Crew
+77,17,36,Cabin Crew
+79,20,34,Cabin Crew
+80,30,18,Cabin Crew
+83,26,43,Captain
+84,32,26,Purser
+86,9,10,Cabin Crew
+88,6,19,Standby
+91,17,21,Standby
+92,22,36,Purser
+94,24,33,Captain
+96,17,28,Purser
+97,15,47,Cabin Crew
+98,15,36,Cabin Crew
+99,27,3,Captain
+100,20,2,Ops
+102,30,50,First Officer
+104,27,19,Ops
+105,24,37,Captain
+106,24,49,First Officer
+108,4,11,Captain
+109,30,11,Captain
+110,4,20,Purser
+114,18,15,Purser
+116,2,32,Captain
+117,21,17,Captain
+118,9,42,Purser
+119,5,28,Purser
+121,34,48,Captain
+122,4,31,Standby
+124,5,27,Purser
+125,5,44,First Officer
+127,30,34,Purser
+130,22,29,Cabin Crew
+131,7,30,First Officer
+132,24,25,Standby
+133,5,4,Captain
+135,4,45,Cabin Crew
+137,4,22,Standby
+141,18,34,Purser
+142,18,17,First Officer
+143,22,9,Captain
+144,26,48,Captain
+145,6,18,Cabin Crew
+146,27,16,Cabin Crew
+147,20,3,Crew
+148,4,44,Captain
+149,6,49,First Officer
+150,32,34,Cabin Crew

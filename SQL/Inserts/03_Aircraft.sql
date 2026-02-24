@@ -1,0 +1,12 @@
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (1, 'VH-PRFI', 'Airbus', 'A321', 220, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (2, 'D-GRYX', 'Airbus', 'A350-900', 315, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (3, 'D-VULO', 'Boeing', '737-800', 189, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (4, 'G-HHCK', 'Boeing', '787-9', 290, 0);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (5, 'N78128H', 'Airbus', 'A350-900', 315, 0);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (6, 'N9834B', 'Airbus', 'A320', 180, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (7, 'F-HIVP', 'Airbus', 'A320', 180, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (8, 'VH-SSPH', 'Airbus', 'A321', 220, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (9, 'N13363D', 'Boeing', '787-9', 290, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (10, 'D-NOXB', 'Boeing', '737-800', 189, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (11, 'G-MXKZ', 'Airbus', 'A320', 180, 1);
+INSERT INTO Aircraft (AircraftID, TailNumber, Manufacturer, Model, SeatCapacity, InService) VALUES (12, 'N25931R', 'Airbus', 'A321', 220, 1);

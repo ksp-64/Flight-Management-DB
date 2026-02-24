@@ -1,0 +1,13 @@
+AircraftID,TailNumber,Manufacturer,Model,SeatCapacity,InService
+1,VH-PRFI,Airbus,A321,220,1
+2,D-GRYX,Airbus,A350-900,315,1
+3,D-VULO,Boeing,737-800,189,1
+4,G-HHCK,Boeing,787-9,290,0
+5,N78128H,Airbus,A350-900,315,0
+6,N9834B,Airbus,A320,180,1
+7,F-HIVP,Airbus,A320,180,1
+8,VH-SSPH,Airbus,A321,220,1
+9,N13363D,Boeing,787-9,290,1
+10,D-NOXB,Boeing,737-800,189,1
+11,G-MXKZ,Airbus,A320,180,1
+12,N25931R,Airbus,A321,220,1
