@@ -1,7 +1,9 @@
 {
   "name": "Python and SQLite",
   "image": "python:3.13-slim-bookworm",
-  "features": {},
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -10,6 +12,7 @@
         "ms-python.vscode-pylance"
       ],
       "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python3",
         "python.useEnvironmentsExtension": true,
         "sqlite.databaseExtensions": [
           ".db",
@@ -19,5 +22,5 @@
       }
     }
   },
-  "postCreateCommand": "pip install --upgrade pip && if [ -f requirements.txt ]; then pip install -r requirements.txt; fi"
+  "postCreateCommand": "if [ -f requirements.txt ]; then python -m pip install --no-cache-dir --root-user-action=ignore -r requirements.txt; fi"
 }
